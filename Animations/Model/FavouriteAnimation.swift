@@ -19,27 +19,27 @@ struct FavouriteAnimation: Identifiable {
 let favourites = [
 
     FavouriteAnimation(fileName: "ConfusedCat",
-                       description: "ConfusedCat")
+                       description: "Confused Cat")
     
     ,
 
     FavouriteAnimation(fileName: "DogEatingNoodle",
-                       description: "DogEatingNoodle")
+                       description: "Dog Eating Noodle")
     
     ,
 
     FavouriteAnimation(fileName: "LoadingBoxes",
-                       description: "LoadingBoxes")
+                       description: "Loading Boxes")
     
     ,
     
     FavouriteAnimation(fileName: "PaperClip",
-                       description: "PaperClip")
+                       description: "Paper Clip")
     
     ,
     
     FavouriteAnimation(fileName: "SpaceMan",
-                       description: "SpaceMan")
+                       description: "Space Man")
     
     ,
     
