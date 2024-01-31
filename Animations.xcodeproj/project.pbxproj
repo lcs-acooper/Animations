@@ -7,12 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DBCEC3712B69D3D300062F4D /* Animation - 1706662613039.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC36B2B69D3D300062F4D /* Animation - 1706662613039.json */; };
-		DBCEC3722B69D3D300062F4D /* Animation - 1706662702929.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC36C2B69D3D300062F4D /* Animation - 1706662702929.json */; };
-		DBCEC3732B69D3D300062F4D /* Animation - 1706662477727.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC36D2B69D3D300062F4D /* Animation - 1706662477727.json */; };
-		DBCEC3742B69D3D300062F4D /* Animation - 1706662676466.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC36E2B69D3D300062F4D /* Animation - 1706662676466.json */; };
-		DBCEC3752B69D3D300062F4D /* Animation - 1706662565217.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC36F2B69D3D300062F4D /* Animation - 1706662565217.json */; };
-		DBCEC3762B69D3D300062F4D /* Animation - 1706662429735.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3702B69D3D300062F4D /* Animation - 1706662429735.json */; };
+		DBCEC37C2B69D4A900062F4D /* FavouriteAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBCEC37B2B69D4A900062F4D /* FavouriteAnimation.swift */; };
+		DBCEC3852B69D9CE00062F4D /* ConfusedCat.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC37F2B69D9CE00062F4D /* ConfusedCat.json */; };
+		DBCEC3862B69D9CE00062F4D /* SpaceMan.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3802B69D9CE00062F4D /* SpaceMan.json */; };
+		DBCEC3872B69D9CE00062F4D /* Stars.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3812B69D9CE00062F4D /* Stars.json */; };
+		DBCEC3882B69D9CE00062F4D /* PaperClip.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3822B69D9CE00062F4D /* PaperClip.json */; };
+		DBCEC3892B69D9CE00062F4D /* DogEatingNoodle.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3832B69D9CE00062F4D /* DogEatingNoodle.json */; };
+		DBCEC38A2B69D9CE00062F4D /* LoadingBoxes.json in Resources */ = {isa = PBXBuildFile; fileRef = DBCEC3842B69D9CE00062F4D /* LoadingBoxes.json */; };
+		DBCEC38C2B69DA0600062F4D /* AnimationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBCEC38B2B69DA0600062F4D /* AnimationsListView.swift */; };
 		DBD5BCD52B67E336009A1EEA /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD5BCD42B67E336009A1EEA /* AnimationsApp.swift */; };
 		DBD5BCD72B67E336009A1EEA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBD5BCD62B67E336009A1EEA /* ContentView.swift */; };
 		DBD5BCD92B67E33A009A1EEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBD5BCD82B67E33A009A1EEA /* Assets.xcassets */; };
@@ -21,12 +23,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DBCEC36B2B69D3D300062F4D /* Animation - 1706662613039.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662613039.json"; sourceTree = "<group>"; };
-		DBCEC36C2B69D3D300062F4D /* Animation - 1706662702929.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662702929.json"; sourceTree = "<group>"; };
-		DBCEC36D2B69D3D300062F4D /* Animation - 1706662477727.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662477727.json"; sourceTree = "<group>"; };
-		DBCEC36E2B69D3D300062F4D /* Animation - 1706662676466.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662676466.json"; sourceTree = "<group>"; };
-		DBCEC36F2B69D3D300062F4D /* Animation - 1706662565217.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662565217.json"; sourceTree = "<group>"; };
-		DBCEC3702B69D3D300062F4D /* Animation - 1706662429735.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Animation - 1706662429735.json"; sourceTree = "<group>"; };
+		DBCEC37B2B69D4A900062F4D /* FavouriteAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteAnimation.swift; sourceTree = "<group>"; };
+		DBCEC37F2B69D9CE00062F4D /* ConfusedCat.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ConfusedCat.json; sourceTree = "<group>"; };
+		DBCEC3802B69D9CE00062F4D /* SpaceMan.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SpaceMan.json; sourceTree = "<group>"; };
+		DBCEC3812B69D9CE00062F4D /* Stars.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Stars.json; sourceTree = "<group>"; };
+		DBCEC3822B69D9CE00062F4D /* PaperClip.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PaperClip.json; sourceTree = "<group>"; };
+		DBCEC3832B69D9CE00062F4D /* DogEatingNoodle.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DogEatingNoodle.json; sourceTree = "<group>"; };
+		DBCEC3842B69D9CE00062F4D /* LoadingBoxes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LoadingBoxes.json; sourceTree = "<group>"; };
+		DBCEC38B2B69DA0600062F4D /* AnimationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsListView.swift; sourceTree = "<group>"; };
 		DBD5BCD12B67E336009A1EEA /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBD5BCD42B67E336009A1EEA /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		DBD5BCD62B67E336009A1EEA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -49,14 +53,32 @@
 		DBCEC34E2B69D14400062F4D /* Animations */ = {
 			isa = PBXGroup;
 			children = (
-				DBCEC3702B69D3D300062F4D /* Animation - 1706662429735.json */,
-				DBCEC36D2B69D3D300062F4D /* Animation - 1706662477727.json */,
-				DBCEC36F2B69D3D300062F4D /* Animation - 1706662565217.json */,
-				DBCEC36B2B69D3D300062F4D /* Animation - 1706662613039.json */,
-				DBCEC36E2B69D3D300062F4D /* Animation - 1706662676466.json */,
-				DBCEC36C2B69D3D300062F4D /* Animation - 1706662702929.json */,
+				DBCEC37F2B69D9CE00062F4D /* ConfusedCat.json */,
+				DBCEC3832B69D9CE00062F4D /* DogEatingNoodle.json */,
+				DBCEC3842B69D9CE00062F4D /* LoadingBoxes.json */,
+				DBCEC3822B69D9CE00062F4D /* PaperClip.json */,
+				DBCEC3802B69D9CE00062F4D /* SpaceMan.json */,
+				DBCEC3812B69D9CE00062F4D /* Stars.json */,
 			);
 			path = Animations;
+			sourceTree = "<group>";
+		};
+		DBCEC37D2B69D4C000062F4D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				DBCEC37B2B69D4A900062F4D /* FavouriteAnimation.swift */,
+				DBCEC37E2B69D4DC00062F4D /* Views */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		DBCEC37E2B69D4DC00062F4D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				DBCEC38B2B69DA0600062F4D /* AnimationsListView.swift */,
+				DBD5BCD62B67E336009A1EEA /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 		DBD5BCC82B67E336009A1EEA = {
@@ -79,8 +101,8 @@
 			isa = PBXGroup;
 			children = (
 				DBD5BCD42B67E336009A1EEA /* AnimationsApp.swift */,
-				DBD5BCD62B67E336009A1EEA /* ContentView.swift */,
 				DBCEC34E2B69D14400062F4D /* Animations */,
+				DBCEC37D2B69D4C000062F4D /* Model */,
 				DBD5BCD82B67E33A009A1EEA /* Assets.xcassets */,
 				DBD5BCDA2B67E33A009A1EEA /* Preview Content */,
 			);
@@ -159,14 +181,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DBCEC3742B69D3D300062F4D /* Animation - 1706662676466.json in Resources */,
-				DBCEC3722B69D3D300062F4D /* Animation - 1706662702929.json in Resources */,
-				DBCEC3712B69D3D300062F4D /* Animation - 1706662613039.json in Resources */,
-				DBCEC3752B69D3D300062F4D /* Animation - 1706662565217.json in Resources */,
+				DBCEC38A2B69D9CE00062F4D /* LoadingBoxes.json in Resources */,
+				DBCEC3882B69D9CE00062F4D /* PaperClip.json in Resources */,
 				DBD5BCDC2B67E33A009A1EEA /* Preview Assets.xcassets in Resources */,
-				DBCEC3762B69D3D300062F4D /* Animation - 1706662429735.json in Resources */,
+				DBCEC3892B69D9CE00062F4D /* DogEatingNoodle.json in Resources */,
+				DBCEC3862B69D9CE00062F4D /* SpaceMan.json in Resources */,
 				DBD5BCD92B67E33A009A1EEA /* Assets.xcassets in Resources */,
-				DBCEC3732B69D3D300062F4D /* Animation - 1706662477727.json in Resources */,
+				DBCEC3872B69D9CE00062F4D /* Stars.json in Resources */,
+				DBCEC3852B69D9CE00062F4D /* ConfusedCat.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +199,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBCEC37C2B69D4A900062F4D /* FavouriteAnimation.swift in Sources */,
+				DBCEC38C2B69DA0600062F4D /* AnimationsListView.swift in Sources */,
 				DBD5BCD72B67E336009A1EEA /* ContentView.swift in Sources */,
 				DBD5BCD52B67E336009A1EEA /* AnimationsApp.swift in Sources */,
 			);
